@@ -1,2 +1,2 @@
 # hello-world
-Hello, everyone! Im new here.
+Hello, everyone! I'm new here.
